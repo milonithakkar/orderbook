@@ -16,21 +16,28 @@ Planned:
 - Comparison of price-level data structures for cache locality
 
 ## Build
-'''bash
+```bash
 mkdir build && cd build
 cmake ..
 make
 ./orderbook
-'''
+```
 
 ## Structure of repo
 
 orderbook-matching-engine/
+
 ├── README.md
+
 ├── CMakeLists.txt
+
 ├── src/
+
 │   ├── main.cpp
+
 │   ├── Order.h
+
 │   ├── OrderBook.h
+
 │   └── OrderBook.cpp
 
