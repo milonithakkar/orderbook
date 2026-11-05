@@ -1,3 +1,0 @@
-GitHub connectivity check — 2026-11-05
-
-This file was added to verify that the repository accepts a commit.
